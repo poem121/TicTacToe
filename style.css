@@ -6,9 +6,8 @@ body {
 
 .container {
     height: 80vmin;
-    justify-content: center;
-    align-items: center;
-    margin-left: 20%;
+    margin-left: 35%;
+
 }
 
 .game {
